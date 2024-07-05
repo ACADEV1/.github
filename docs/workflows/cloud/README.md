@@ -4,12 +4,12 @@ We provide a few options for coding.
 
 <br>
 
-### [Just on GitHub](https://github.com/ACADEV1/.github/blob/dev/docs/workflows/github/README.md) ⭐
+### [Just on GitHub](https://github.com/ACADEV1/.github/blob/dev/docs/workflows/cloud/github/README.md) ⭐
 If you'd like to use this web platform. 
 
 <br>
 
-### [Local to Git]()
+### [Local to Git](https://github.com/ACADEV1/.github/blob/dev/docs/workflows/cloud/local/README.md)
 If you're comfortable with your own vscode environment.
 
 <br>
