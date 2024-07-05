@@ -2,7 +2,7 @@
 name: New Volunteer
 about: Helps volunteers get onboarded.
 title: "[New Volunteer] <Full Name>"
-labels: ''
+labels: new volunteer
 assignees: sammypanda
 
 ---
