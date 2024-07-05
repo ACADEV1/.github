@@ -1,2 +1,1 @@
-# .github
-Special repository that shows README on organisation profile.
+# If you're looking for the docs, [Start Here](https://github.com/ACADEV1/.github/tree/dev/docs)
