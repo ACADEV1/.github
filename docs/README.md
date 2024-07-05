@@ -15,7 +15,7 @@ If you haven't been assigned anything and would like to be, you can start a disc
 <br>
 
 ### 🎉 I have a task! What now?
-Great, you can visit [docs/workflows/README.md](https://github.com/ACADEV1/.github/blob/dev/docs/workflows/README.md) (To be created)
+Great, you can visit [docs/workflows/README.md](https://github.com/ACADEV1/.github/blob/dev/docs/workflows/README.md)
 
 <br>
 
