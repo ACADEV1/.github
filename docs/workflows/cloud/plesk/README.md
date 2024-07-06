@@ -4,7 +4,7 @@ This will be done using:
 - \>16GB free storage
 - Access to your project's GitHub repo
 
-⚠️ Try not to use this option to make big changes, make a small changes incrementally.
+⚠️ This is intended/designed as a test bed. Try not to use this option to make big changes, make a small changes incrementally.
 
 ⚠️ If you go too long without committing (truly saving) back to git, you risk losing your changes and overriding other people's changes. The process becomes unecessarily complicated and involved with large merge conflicts to be resolved.
 
