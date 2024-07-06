@@ -40,4 +40,4 @@ On the same page as above, click on folders and files to navigate
 <br>
 
 ## Does this mean a short wait for each update?
-Yes, see the [cloud README](https://github.com/ACADEV1/.github/blob/dev/docs/workflows/cloud/README.md)
+Yes, see the [cloud README](https://github.com/ACADEV1/.github/blob/dev/docs/workflows/cloud/README.md#does-this-mean-a-short-wait-for-each-update)
