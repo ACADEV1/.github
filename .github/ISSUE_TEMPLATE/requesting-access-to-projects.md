@@ -1,5 +1,5 @@
 ---
-name: Access to Projects
+name: Requesting access to projects
 about: Helps a volunteer get access to a/another project
 title: "[Access Request] <Projects>"
 labels: access

@@ -1,5 +1,5 @@
 ---
-name: New Volunteer
+name: New volunteer discussion
 about: Helps volunteers get onboarded.
 title: "[New Volunteer] <Full Name>"
 labels: new volunteer
