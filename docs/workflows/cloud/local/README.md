@@ -36,6 +36,7 @@ DO NOT 'RELY' ON THE EXAMPLE COMMANDS ATTACHED TO STEPS. They are for your refer
     - Would like to edit
 ###### # You should be able to use these commands with your git, they aren't just reference.
 2. git clone git@github.com:ACADEV1/[your repo].git
+3. git checkout dev # ensure you are on dev branch for dev work, never commit directly to prod/main branches
 
 <br>
 
@@ -65,11 +66,5 @@ DO NOT 'RELY' ON THE EXAMPLE COMMANDS ATTACHED TO STEPS. They are for your refer
 
 <br>
 
-## Does this mean a short wait for each update?!
-Yes, there is a short wait for the Continuous Deployment system on Plesk to update the submodules, and reflect your changes. 
-
-As Sammy, the author, who designed the CD system and wrote this doc; i usually use this wait time to double check changes. I sometimes will use the Sandbox described in the Plesk workflow to test small things or double check variables to ensure things worked when in times of uncertainty.
-
-The [Plesk workflow](https://github.com/ACADEV1/.github/blob/dev/docs/workflows/plesk/README.md), has this sandbox where these delays can be avoided. **But, it is a much less safe and more inconvenient way to work with Git as you have to download and merge. It is ideal as a test bed, not as a dev environment**.
-
-The non-cloud local dev environment is under construction to solve this.
+## Does this mean a short wait for each update?
+Yes, see the [cloud README](https://github.com/ACADEV1/.github/blob/dev/docs/workflows/cloud/README.md)
