@@ -14,7 +14,7 @@ If you're comfortable with your own vscode environment.
 
 <br>
 
-### [Plesk to DL to Git]()
+### [Plesk to DL to Git](https://github.com/ACADEV1/.github/blob/dev/docs/workflows/cloud/plesk/README.md)
 If you'd like to work with instant updates, even if inconvenient.
 
 <br>
