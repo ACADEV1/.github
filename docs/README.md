@@ -21,11 +21,11 @@ Great, you can visit [docs/workflows/README.md](https://github.com/ACADEV1/.gith
 
 ### 📋 Table of Contents
 
-| Location                                                                      | Description                                            |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------ |
-| [docs/workflows](https://github.com/ACADEV1/.github/blob/dev/docs/workflows)  | Guides on the supported code contribution methods      |
-| [docs/guide](https://github.com/ACADEV1/.github/blob/dev/docs/guide)          | 🚧 Under construction: Style guide and App1 API usage  |
-| [docs/onboarding](https://github.com/ACADEV1/.github/blob/dev/docs/onboarding)| 🚧 Under construction: Guides for admins/managers      |
+| Location                                                                                | Description                                            |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| [docs/workflows](https://github.com/ACADEV1/.github/blob/dev/docs/workflows/README.md)  | Guides on the supported code contribution methods      |
+| [docs/guide](https://github.com/ACADEV1/.github/blob/dev/docs/guide/README.md)          | 🚧 Under construction: Style guide and App1 API usage  |
+| [docs/onboarding](https://github.com/ACADEV1/.github/blob/dev/docs/onboarding/README.md)| 🚧 Under construction: Guides for admins/managers      |
 
 <br>
 
