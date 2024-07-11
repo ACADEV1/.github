@@ -10,12 +10,12 @@ App 1, is our suite of PHP modules, like: p036_Portal_Impact, for example.
 
 You can find our project issue tracker for App 1, here: [App One](https://github.com/orgs/ACADEV1/projects/1/views/1). This is the place to organise the modules, discuss and be assigned tasks.
 
-If you haven't been assigned anything and would like to be, you can start a discussion about that here: [Create an issue](https://github.com/ACADEV1/.github/issues/new?assignees=sammypanda&title=%5BQuestion%5D+%3CDescription%3E)
+If you haven't been assigned anything and would like to be, you can start a discussion about that here: [Ask a question](https://github.com/ACADEV1/.github/issues/new?assignees=sammypanda&title=%5BQuestion%5D+%3CDescription%3E)
 
 <br>
 
 ### 🎉 I have a task! What now?
-Great, you can visit [docs/workflows/README.md](https://github.com/ACADEV1/.github/blob/dev/docs/workflows/README.md)
+Great, you can visit [docs/workflows](https://github.com/ACADEV1/.github/blob/dev/docs/workflows/README.md)
 
 <br>
 
@@ -30,4 +30,4 @@ Great, you can visit [docs/workflows/README.md](https://github.com/ACADEV1/.gith
 <br>
 
 ### 💼 I'm an admin/manager
-Need a reminder on how to help someone, start to finish? Understand the above first, and then the rest of the information is in: [docs/management/README.md]() (To be created)
+Need a reminder on how to do a management task? This information is in: [docs/management](https://github.com/ACADEV1/.github/blob/dev/docs/management/README.md).
