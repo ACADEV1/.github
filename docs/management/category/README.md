@@ -5,6 +5,7 @@ Monorepos exist to:
 
 ###### Project = a repository, a directory inside of a pXXX category
 ###### Monorepo = the category projects are in, like app1_p000
+###### CD/Build/Deployment Process = how the code updates to the server
 
 <br>
 
