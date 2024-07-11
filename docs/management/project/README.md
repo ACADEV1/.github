@@ -8,5 +8,5 @@ When a developer is wanting to do a task on a project, this is how to outline, a
 
 <br>
 
-### [Add a task ☑️](https://github.com/ACADEV1/.github/blob/dev/docs/management/project/create/README.md)
+### [Add a task ☑️](https://github.com/ACADEV1/.github/blob/dev/docs/management/project/task/README.md)
 To guide developers in what code/task they need to complete, the details and the expected result.
