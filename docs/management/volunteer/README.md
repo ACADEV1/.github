@@ -14,5 +14,5 @@ Marking a volunteer as inactive, and facilitating handover.
 <br>
 
 ### [Assign a task 📖](https://github.com/ACADEV1/.github/blob/dev/docs/management/volunteer/task/README.md)
-When a developer is wanting to do a task on a project, this is how to outline, assign and track the task.
+When you want to assign a developer to do a task on a project, this is guide shows how.
 
