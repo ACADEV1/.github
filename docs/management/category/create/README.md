@@ -1,7 +1,7 @@
 # Setting up a monorepo (a project category)
 The category/monorepo for projects to go into, for example: [p000](https://github.com/ACADEV1/app1_p000). This is one of the more involved processes, but it makes setting up projects simpler.
 
-If you're looking for a guide on how to set up a project, like **p001_Example**, go [back](https://github.com/ACADEV1/.github/blob/dev/docs/onboarding/README.md).
+If you're looking for a guide on how to set up a project, like **p001_Example**, go [back](https://github.com/ACADEV1/.github/blob/dev/docs/management/README.md).
 
 This will be done using:
 - Administrative Plesk (Web) access: 

@@ -25,9 +25,9 @@ Great, you can visit [docs/workflows/README.md](https://github.com/ACADEV1/.gith
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | [docs/workflows](https://github.com/ACADEV1/.github/blob/dev/docs/workflows/README.md)  | Guides on the supported code contribution methods      |
 | [docs/guide](https://github.com/ACADEV1/.github/blob/dev/docs/guide/README.md)          | 🚧 Under construction: Style guide and App1 API usage  |
-| [docs/onboarding](https://github.com/ACADEV1/.github/blob/dev/docs/onboarding/README.md)| 🚧 Under construction: Guides for admins/managers      |
+| [docs/management](https://github.com/ACADEV1/.github/blob/dev/docs/management/README.md)| 🚧 Under construction: Guides for admins/managers      |
 
 <br>
 
 ### 💼 I'm an admin/manager
-Need a reminder on how to help someone, start to finish? Understand the above first, and then the rest of the information is in: [docs/onboarding/README.md]() (To be created)
+Need a reminder on how to help someone, start to finish? Understand the above first, and then the rest of the information is in: [docs/management/README.md]() (To be created)
