@@ -4,7 +4,7 @@ There are multiple management tasks to be done.
 <br>
 
 ### [Manage a project 📦](https://github.com/ACADEV1/.github/blob/dev/docs/management/project/README.md)
-Including creating the project, and creating tasks.
+Including creating the project, and creating tasks. This does not cover the build process (see category).
 
 <br>
 
