@@ -13,6 +13,6 @@ Marking a volunteer as inactive, and facilitating handover.
 
 <br>
 
-### [Create a task 📖](https://github.com/ACADEV1/.github/blob/dev/docs/management/project/task/README.md)
+### [Assign a task 📖](https://github.com/ACADEV1/.github/blob/dev/docs/management/volunteer/task/README.md)
 When a developer is wanting to do a task on a project, this is how to outline, assign and track the task.
 
