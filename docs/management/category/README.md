@@ -11,3 +11,8 @@ Monorepos exist to:
 
 ### [Creating a Category 🗃️](https://github.com/ACADEV1/.github/blob/dev/docs/management/category/create/README.md)
 The category/monorepo for projects to go into, for example: [p000](https://github.com/ACADEV1/app1_p000).
+
+<br>
+
+### [Setting up deployment 🪂](https://github.com/ACADEV1/.github/blob/dev/docs/management/category/deployment/README.md)
+Making the category automatically update and deploy on the **Plesk** servers.
