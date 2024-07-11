@@ -1,5 +1,10 @@
-# Setting up a volunteer
-This guide should help you get a volunteer set up.
+# What volunteer management would you like to do?
+This guide should help you get a volunteer set up. This only covers dev related volunteers.
+
+<br>
+
+### [View the developer volunteers list 📋](https://github.com/ACADEV1/.github/blob/dev/docs/management/volunteer/list/README.md)
+Shows the info and activity status of volunteer devs.
 
 <br>
 
