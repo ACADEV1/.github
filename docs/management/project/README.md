@@ -1,16 +1,12 @@
-# Setting up a project
-There are multiple steps to creating a project, including linking it in to git and (in this instance) plesk.
+# Manage a project
+There are multiple parts to managing a project.
 
-This will be done using:
-- Administrative Plesk (Web) access
-- Administrative GitHub (Web) access
+<br>
 
-###### This guide has not been tested 🚧
-
-### [Create a task 📖](https://github.com/ACADEV1/.github/blob/dev/docs/management/project/task/README.md)
+### [Create a project 🌠](https://github.com/ACADEV1/.github/blob/dev/docs/management/project/create/README.md)
 When a developer is wanting to do a task on a project, this is how to outline, assign and track the task.
 
 <br>
 
-### 1. XYZ
-1. ABC
+### [Add a task ☑️](https://github.com/ACADEV1/.github/blob/dev/docs/management/project/create/README.md)
+To guide developers in what code/task they need to complete, the details and the expected result.
