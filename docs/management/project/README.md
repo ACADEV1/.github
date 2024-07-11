@@ -1,6 +1,8 @@
 # Manage a project
 There are multiple parts to managing a project.
 
+This area only covers how to manage the project itself. See [here](https://github.com/ACADEV1/.github/blob/dev/docs/management/category/README.md) for guidance about the CD/build process/automatic deployment system.
+
 <br>
 
 ### [Create a project 🌠](https://github.com/ACADEV1/.github/blob/dev/docs/management/project/create/README.md)

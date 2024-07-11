@@ -1,7 +1,7 @@
 # Managing a monorepo (a project category)
 Monorepos exist to:
-- Make it easier to find your project
-- Manage the CI/CD functionality and build process
+- **Manage the CI/CD functionality and build process**
+- A sorting system which makes it easier to find your project
 
 ###### Project = a repository, a directory inside of a pXXX category
 ###### Monorepo = the category projects are in, like app1_p000
