@@ -10,6 +10,7 @@ Provides information about activity, and helps organise assigning tasks.
 
 | Volunteer   | GitHub     | Active | Skills                |
 | ----------- | ---------- | ------ | --------------------- |
+| Alison   H. | N/A        | 🔄      | Database, Scriptcase  |
 | Andrew X.   | HingjauDev | ❌      | PHP, Scriptcase       |
 | Tafadzwa M. | ttmqetu    | 🔄      | JS, Google Maps       |
 | Sammy P.    | sammypanda | ✅      | PHP, JS, DBs          |
