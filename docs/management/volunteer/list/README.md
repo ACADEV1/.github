@@ -1,6 +1,7 @@
 # List of volunteer developers
 Provides information about activity, and helps organise assigning tasks.
 - Append volunteers to the top when new and when changed (sorted by activity).
+- Only take off TBD status when at least one task completed by the dev.
 
 ###### ❌ = inactive
 ###### ✅ = active
