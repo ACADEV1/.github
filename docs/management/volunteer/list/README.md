@@ -9,12 +9,12 @@ Provides information about activity, and helps organise assigning tasks.
 
 <br>
 
-| Volunteer   | GitHub     | Active | Skills                |
-| ----------- | ---------- | ------ | --------------------- |
-| Sandy J.    | N/A        | 🔄      | SQL                   |
-| Alison   H. | N/A        | 🔄      | Database, Scriptcase  |
-| Andrew X.   | HingjauDev | ❌      | PHP, Scriptcase       |
-| Tafadzwa M. | ttmqetu    | ✅      | JS, Google Maps       |
-| Sammy P.    | sammypanda | ✅      | PHP, JS, DBs          |
-| Amutha M.   | Amutha37   | ✅      | Google Analytics      |
-| Navdeep S.  | navdeepsta | ✅      | PHP, JS, Google Maps  |
+| Volunteer   | GitHub        | Active | Skills                |
+| ----------- | ------------- | ------ | --------------------- |
+| Sandy J.    | N/A           | 🔄      | SQL                   |
+| Alison   H. | Migyeongjeong | 🔄      | Database, Scriptcase  |
+| Andrew X.   | HingjauDev    | ❌      | PHP, Scriptcase       |
+| Tafadzwa M. | ttmqetu       | ✅      | JS, Google Maps       |
+| Sammy P.    | sammypanda    | ✅      | PHP, JS, DBs          |
+| Amutha M.   | Amutha37      | ✅      | Google Analytics      |
+| Navdeep S.  | navdeepsta    | ✅      | PHP, JS, Google Maps  |
