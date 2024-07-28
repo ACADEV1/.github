@@ -11,8 +11,8 @@ Provides information about activity, and helps organise assigning tasks.
 
 | Volunteer   | GitHub        | Active | Skills                |
 | ----------- | ------------- | ------ | --------------------- |
-| Sandy J.    | N/A           | 🔄      | SQL                   |
-| Alison   H. | Migyeongjeong | 🔄      | Database, Scriptcase  |
+| Sandy J.    | Migyeongjeong | 🔄      | SQL                   |
+| Alison   H. | alibru09      | 🔄      | Database, Scriptcase  |
 | Andrew X.   | HingjauDev    | ❌      | PHP, Scriptcase       |
 | Tafadzwa M. | ttmqetu       | ✅      | JS, Google Maps       |
 | Sammy P.    | sammypanda    | ✅      | PHP, JS, DBs          |
