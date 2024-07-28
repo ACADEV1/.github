@@ -6,6 +6,7 @@ Provides information about activity, and helps organise assigning tasks.
 ###### ❌ = inactive
 ###### ✅ = active
 ###### 🔄 = tbd/onboarding
+###### 🟠 = offboarding
 
 <br>
 
