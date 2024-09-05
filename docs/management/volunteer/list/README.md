@@ -17,5 +17,5 @@ Provides information about activity, and helps organise assigning tasks.
 | Andrew X.   | HingjauDev    | ❌      | PHP, Scriptcase       |
 | Tafadzwa M. | ttmqetu       | ✅      | JS, Google Maps       |
 | Sammy P.    | sammypanda    | ✅      | PHP, JS, DBs          |
-| Amutha M.   | Amutha37      | ✅      | Google Analytics      |
+| Amutha M.   | Amutha37      | ❌      | Google Analytics      |
 | Navdeep S.  | navdeepsta    | ❌      | PHP, JS, Google Maps  |
