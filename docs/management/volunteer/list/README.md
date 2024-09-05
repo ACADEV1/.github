@@ -18,4 +18,4 @@ Provides information about activity, and helps organise assigning tasks.
 | Tafadzwa M. | ttmqetu       | ✅      | JS, Google Maps       |
 | Sammy P.    | sammypanda    | ✅      | PHP, JS, DBs          |
 | Amutha M.   | Amutha37      | ✅      | Google Analytics      |
-| Navdeep S.  | navdeepsta    | ✅      | PHP, JS, Google Maps  |
+| Navdeep S.  | navdeepsta    | ❌      | PHP, JS, Google Maps  |
