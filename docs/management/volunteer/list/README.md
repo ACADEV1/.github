@@ -10,12 +10,14 @@ Provides information about activity, and helps organise assigning tasks.
 
 <br>
 
-| Volunteer   | GitHub        | Active | Skills                |
-| ----------- | ------------- | ------ | --------------------- |
-| Sandy J.    | Migyeongjeong | 🔄      | SQL                   |
-| Alison   H. | alibru09      | 🔄      | Database, Scriptcase  |
-| Andrew X.   | HingjauDev    | ❌      | PHP, Scriptcase       |
-| Tafadzwa M. | ttmqetu       | ✅      | JS, Google Maps       |
-| Sammy P.    | sammypanda    | ✅      | PHP, JS, DBs          |
-| Amutha M.   | Amutha37      | ❌      | Google Analytics      |
-| Navdeep S.  | navdeepsta    | ❌      | PHP, JS, Google Maps  |
+| Volunteer   | GitHub          | Active | Skills                |
+| ----------- | --------------- | ------ | --------------------- |
+| Sandy J.    | Migyeongjeong   | 🔄      | SQL                   |
+| Alison   H. | alibru09        | 🔄      | Database, Scriptcase  |
+| Andrew X.   | HingjauDev      | ❌      | PHP, Scriptcase       |
+| Tafadzwa M. | ttmqetu         | ✅      | JS, Google Maps       |
+| Sammy P.    | sammypanda      | ✅      | PHP, JS, DBs          |
+| Amutha M.   | Amutha37        | ❌      | Google Analytics      |
+| Navdeep S.  | navdeepsta      | ❌      | PHP, JS, Google Maps  |
+| Jahnavi D.  | dasarijahnavi09 | 🔄      | Python, JS, Firebase  |
+| Shayne G.   | ShayneJG        | ✅      | Python, C, JS, Java   |
