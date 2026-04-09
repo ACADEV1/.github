@@ -7,6 +7,7 @@ If you're a volunteer:
 To be implemented:
 - Automated Onboarding
   - A power platform based pipeline to auto-add volunteers to an Azure database.
+  - Also would mean likely removing (or setting an inactive flag) on the offboarding MS Power Flow
 
 - Induction
   - Scan all teams for an 'Induction' folder, and then indexes it on a web page with support for: EntraID-based users, marking if it's been accessed, potentially an admin list view for users that shows what has been accessed.
