@@ -14,6 +14,11 @@ If you haven't been assigned anything and would like to be, you can start a disc
 
 <br>
 
+### Do you have a template?
+Yes, ACA_Template is a repository that defines our standard stack and helps new projects get started.
+
+<br>
+
 ### 🎉 I have a task! What now?
 Great, you can visit [docs/workflows](https://github.com/ACADEV1/.github/blob/dev/docs/workflows/README.md)
 
